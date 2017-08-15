@@ -10,5 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "claudia-api-builder": "^2.5.1"
+  },
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/dweibel/nodeLambda.git"
   }
 }
