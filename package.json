@@ -1,0 +1,14 @@
+{
+  "name": "node_lambda",
+  "version": "1.0.0",
+  "description": "Demo Lambda using NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "claudia-api-builder": "^2.5.1"
+  }
+}
